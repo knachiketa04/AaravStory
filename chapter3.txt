@@ -1,0 +1,2 @@
+var SecretStuff = Stuff(type: "secret")
+// Not so secret
